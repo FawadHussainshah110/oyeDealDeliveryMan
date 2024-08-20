@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178809815397",
+    "project_id": "oydeal-dcodax-6c694",
+    "storage_bucket": "oydeal-dcodax-6c694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178809815397:android:46accb9ab01b832246218c",
+        "android_client_info": {
+          "package_name": "com.deliveryman.oydeal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb367fJu9uomayQras6aDdyji9LjVUXfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178809815397:android:f057e47e7c4c54cf46218c",
+        "android_client_info": {
+          "package_name": "com.store.oydeal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb367fJu9uomayQras6aDdyji9LjVUXfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
